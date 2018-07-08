@@ -1,10 +1,12 @@
 {
-  "id": "ffscreensharing@example.com",
-  "title": "Screen-sharing extension",
+  "id": "bloctclive@bloc.io",
+  "name": "bloc-tc-screensharing",
+  "title": "Bloc Technical Coaching Screensharing",
   "version": "0.0.1",
-  "description": "A screen-sharing extension",
-  "author": "",
+  "description": "A screen-sharing extension for Bloc technical coaching",
+  "author": "Bloc, Inc",
   "main": "index.js",
+  "update_url": "https://bloc.io/tc-live/updates.json",
   "engines": {
     "firefox": ">=38.0a1",
     "fennec": ">=38.0a1"
